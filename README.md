@@ -2,6 +2,24 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+
+# StopwatchApp
+
+A React Native stopwatch application with additional features like LED control and character sending.
+
+## Features
+- Stopwatch with start, pause, and reset functionality.
+- Displays the current date and time.
+- Sends characters to a server.
+- Toggles an LED via a server request.
+- Background image for enhanced UI.
+
+## Where is repository
+   Clone the repository:
+   ```bash
+   git clone https://github.com/username/StopwatchApp.git
+   ```
+   
 ## Get started
 
 1. Install dependencies
