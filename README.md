@@ -19,7 +19,7 @@ A React Native stopwatch application with additional features like LED control a
    ```bash
    git clone https://github.com/username/StopwatchApp.git
    ```
-   
+      
 ## Get started
 
 1. Install dependencies
